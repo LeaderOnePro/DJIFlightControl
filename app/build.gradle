@@ -12,7 +12,7 @@ android {
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
-        applicationId "com.dji.sdk.sample"
+        applicationId "com.ncwu.paddlepaddle.djiflightcontrol"
         minSdkVersion 23
         targetSdkVersion 34
         multiDexEnabled true
